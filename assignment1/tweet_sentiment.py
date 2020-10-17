@@ -1,10 +1,30 @@
 import sys
 
 def hw():
-    print 'Hello, world!'
+    afinnfile = None
+    outputfile = None
+    with open("AFINN-111.txt") as f:
+        afinnfile = f.readlines()
+
+    scores = {} # initialize an empty dictionary
+    for line in afinnfile:
+        term, score  = line.split("\t")  # The file is tab-delimited. "\t" means "tab character"
+        scores[term] = int(score)  # Convert the score to an integer.
+
+    with open("output.txt") as f:
+        outputfile = f.readlines()
+    
+    for line in outputfile:
+        words = line.split()
+        sentiment = 0 
+        for word in words:
+            if word.lower() in scores.keys():
+                sentiment += scores[word.lower()]
+        print(sentiment)
+
 
 def lines(fp):
-    print str(len(fp.readlines()))
+    print(str(len(fp.readlines())))
 
 def main():
     sent_file = open(sys.argv[1])

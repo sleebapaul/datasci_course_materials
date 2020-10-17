@@ -1,0 +1,462 @@
+I went through some of the exam questions and coding problems on this website and I like what I see.
+
+It's a nice r… https://t.co/mJpvPyyuCJ
+If you had the chance to ask any company (perhaps one you are interested in) a question about their work related to… https://t.co/vsQ3g7Avwd
+Wow! That's a lot of Python newsletters. Will definitely check out some of them. 🤓
+
+Those are some really solid Pyt… https://t.co/qCCv8TSAtW
+@Hvsssvn @trylks Lego bricks to the rescue! Always! 😀
+@trylks Now try to explain this to someone that hasn't used APIs before or is not aware of web technologies.
+I just tried to provide a 10-minute explanation of APIs to my brother. Failed horribly!
+
+In my head, it's a few lin… https://t.co/4TxQAS77vz
+RT @omarsar0: Cool paper from the TensorFlow team on ML Engineering:
+
+📌 Lots of insights on building tools for production ML and applied ma…
+Cool paper from the TensorFlow team on ML Engineering:
+
+📌 Lots of insights on building tools for production ML and… https://t.co/B50SfuZC08
+🔥🚀 https://t.co/XmxgzdKCuF
+RT @omarsar0: A great introduction to reinforcement learning by the amazing @pcastr.
+
+This should be the standard for tutorials now: video…
+RT @omarsar0: Text generation is one of the exciting research areas of NLP and is generally a work in progress.
+
+Check out this survey (44…
+@alexcg @JinaAI_ Nice idea! Let's make it happen. 😀🚀
+@PrerakDongaonka I will crosspost on these two platforms:
+
+Substack: https://t.co/IOgIH47gPo
+Medium: https://t.co/5Uswkrk9VT
+I am starting to write heavily again! 🚀
+
+I have a series of machine learning related blogs I am writing about. Topi… https://t.co/RVMDYrVbeJ
+Text generation is one of the exciting research areas of NLP and is generally a work in progress.
+
+Check out this s… https://t.co/OMTxIbmovb
+A great introduction to reinforcement learning by the amazing @pcastr.
+
+This should be the standard for tutorials n… https://t.co/MwhOT8BRvx
+RT @omarsar0: Diversify your understanding of things like:
+
+- clustering
+- knowledge bases 
+- neural networks
+- topic modeling
+- graph anal…
+Empathetic dialogue generation (with code included)👇 https://t.co/QZA76h4Qxz
+RT @omarsar0: Working on machine learning research for many years teaches you that there are different ways to tackle a single problem.
+
+Wh…
+You always want to start with a basic solution. Nothing too extravagant.
+
+The idea is to show that you understand t… https://t.co/kRbP36rFuO
+Good luck with your next interview!
+Don't invest too much time in one technique like neural networks and miss the opportunity to showcase a solid grasp… https://t.co/bOftt1CEGg
+The more you diversify, the better you are able to explain how different techniques are useful in different scenari… https://t.co/ILJwoqrTe1
+Diversify your understanding of things like:
+
+- clustering
+- knowledge bases 
+- neural networks
+- topic modeling
+-… https://t.co/pDcjEo7kii
+There is no reason to stay silent during an ML interview if you have a robust array of techniques that you have fam… https://t.co/jVN9RMy6dl
+A scenario where this is useful is when the reviewer asks you to solve a specific problem perhaps using a predeterm… https://t.co/ox8vny3hUH
+Working on machine learning research for many years teaches you that there are different ways to tackle a single pr… https://t.co/Bpn9lN92cm
+@DrElleOBrien I hear you loud. I read books in chapters these days. I rarely get a chance or aim to complete books… https://t.co/q0ROUyvlsY
+Based on the feedback from yesterday's tweet on interesting topics for ML engineers/researchers, here are a few mor… https://t.co/zmJFTJiEi9
+RT @omarsar0: A few interesting topics to pay attention to in the next few years if you are an ML engineer/researcher:
+
+- simulations
+- mod…
+RT @omarsar0: I have always emphasized on the importance of mathematics in machine learning. 
+
+Here is a compilation of resources (books, v…
+📘 Information Theory, Inference and Learning Algorithms
+
+by David J. C. MacKay
+
+Note: When you are applying machine… https://t.co/WcIBLS9Mqb
+📺 Mathematics for Machine Learning - Linear Algebra
+
+by Dr. Sam Cooper &amp; Dr. David Dye 
+
+https://t.co/lNYLiMKLma
+
+N… https://t.co/NGZFewC29v
+📜 The Matrix Calculus You Need For Deep Learning
+
+by Terence Parr &amp; Jeremy Howard
+
+https://t.co/Gk96dRsX5t
+
+Note: I… https://t.co/hPUhGsqYU8
+📺 Multivariate Calculus by Imperial College London
+
+by Dr. Sam Cooper &amp; Dr. David Dye 
+
+https://t.co/OYaqzlXmJG
+
+No… https://t.co/qTxrbHA9Og
+📘 Probability Theory: The Logic of Science
+
+by E. T. Jaynes
+
+Note: In machine learning, we are interested in buildi… https://t.co/p3aoLHe8yI
+📘 The Elements of Statistical Learning
+
+by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+
+Mote: machine… https://t.co/XGd0jIZoSW
+📘 Pattern Recognition and Machine Learning
+
+by Christopher Bishop
+
+Note: Prior to the book above, this is the book… https://t.co/urbdKnaa5F
+📘 Mathematics for Machine Learning
+
+by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong… https://t.co/QOmq9hIAoR
+I have always emphasized on the importance of mathematics in machine learning. 
+
+Here is a compilation of resources… https://t.co/pGloF3CU2y
+Another awesome issue of the NLP News newsletter by @seb_ruder. 
+
+From low-resource NLP tools to the next generatio… https://t.co/Srp2zgBDab
+Empathy is the future
+A few interesting topics to pay attention to in the next few years if you are an ML engineer/researcher:
+
+- simulat… https://t.co/Jx50Qj5Crh
+Great technology stack to be familiar with if you are aiming to become a machine learning engineer 👇 https://t.co/tHLL1qO0RK
+🤣 https://t.co/CSzgoq5d5u
+RT @svlevine: My deep RL course (CS285) now has fall 2020 lectures online, here: https://t.co/Y674PBH6TS
+
+We'll update this each week with…
+RT @twisteddoodles: What’s the difference between a genie and a research scientist? (Cartoon for @newscientist ) https://t.co/m1AERVCG4b
+RT @arXiv_Daily: A Survey of the State of Explainable AI for Natural Language Processing
+https://t.co/clDsaOLqV3
+by Marina Danilevsky et al…
+@Pai_LFC There are a lot of techniques on how to apply the ML algos more effectively, these are also great to know.… https://t.co/Z8qycPAqEq
+@Pai_LFC I would worry less about tackling every problem possible since most problems/datasets are not known in adv… https://t.co/rr0ChsJQ2I
+RT @omarsar0: 🎓 CS 285: Deep Reinforcement Learning 🎓
+
+Here are the recent video lectures on deep reinforcement learning by Sergey Levine @…
+This is another topic I plan to write more about. 
+
+The point is not to instill fear. It's challenging and it's awe… https://t.co/6SCY4p8lO9
+I don't claim you should be a know-it-all. But this stuff is hard and not straightforward. The more you know the be… https://t.co/u9cAmRvskM
+In the end, applying ML is not easy. Don't let anyone convince you that it is easy.
+
+Give yourself time to develop… https://t.co/O0lZi3oCSQ
+You must understand your data. Put in place an infrastructure or at least understand it if someone else has impleme… https://t.co/YvT8U7LPv9
+The point is that applying machine learning to a problem is not just feature engineering, adopting ML algo from too… https://t.co/iSVYvarBO2
+As things change how does your model adapt? Adapt to what? This is not your typical piece of software. There is fee… https://t.co/OetDuf0SGb
+Data is just one of the hard parts. 
+
+The next question is how do you report your results? 
+
+A confusion matrix isn… https://t.co/tZL9k55ncU
+A lot of the toy datasets and problems used to teach ML today are clean and binary.
+
+Things in the real world are r… https://t.co/7hajbiOo9x
+There is rarely a straightforward answer on how to properly apply ML algorithms to dynamic real world datasets. It'… https://t.co/FFveeEEMhe
+It's really concerning to see so much false advertisement on this idea that applying machine learning is easy. 
+
+I… https://t.co/jcPAFzkwgB
+RT @omarsar0: Yesterday, we hosted another great session on modern CNN architectures by @SalimChemlal.
+
+I enjoyed the conversation on compu…
+Yesterday, we hosted another great session on modern CNN architectures by @SalimChemlal.
+
+I enjoyed the conversatio… https://t.co/D3kUPQCIJ9
+🎓 CS 285: Deep Reinforcement Learning 🎓
+
+Here are the recent video lectures on deep reinforcement learning by Serge… https://t.co/nJdcMDSSjo
+RT @Haswanth_hassi: Awesome session by @SalimChemlal on Modern CNNs for the study group of @D2L_ai book hosted by @omarsar0 at @dair_ai.
+
+D…
+If you are a deep learning student, there is some good material to review on this list. 🎓 https://t.co/JOabmVnXky
+@abhicantdraw Very strange. Maybe try to refresh or something. I am able to see the stream.
+@abhicantdraw Here is the YouTube link as well: https://t.co/nRPMJaexet
+RT @rdenadai: Happening right now!! With @SalimChemlal and @omarsar0
+
+Dive into Deep Learning (Study Group): Modern CNNs | Session 7 https:…
+@abhicantdraw It has started already. Are you in our Slack group?
+Happening in five minutes! 
+
+Here is the YouTube live stream if you are interested:
+
+https://t.co/nRPMJaexet https://t.co/rVtXq6RLue
+Just came across this. A neatly put together course on deep reinforcement learning. 
+
+There is a version one alread… https://t.co/VCK36BsULF
+Please come and join us today (3:00 pm CEST) to learn about modern CNNs. 
+
+@SalimChemlal's first lecture was phenom… https://t.co/jLUWnxEePI
+RT @yoavgo: imagine if NLP would write abstracts like the theory ppl. 
+
+"We report 93.8F on SQUAD2.0 using RoBERTA."
+
+"We describe 5 experi…
+RT @hardmaru: These two figures basically list all of the methods people have tried so far to make stochastic gradient descent work
+
+“Desce…
+@kristallpirat Interesting!
+RT @omarsar0: I get a lot of questions about where to learn about practical NLP for building real-world applications. 
+
+This book and it's…
+What does more damage to your English writing, Twitter or coding? 🤔
+@learningsaurabh Your are welcome. I will do my best to help wherever I can.
+In research, motivation is not a medicine... it's the actual two minutes you have to convince your reviewer that your work matters.
+There is one takeaway with all of what's happening in the world today: we need each other.
+In fact, what's even stranger is that interviewers won't test you on shiny things, they will test you on your abili… https://t.co/xDgs9JalKf
+I feel it must be very hard for any student out there to complete any of the majority of machine learning courses t… https://t.co/42CLhdpFre
+@Haswanth_hassi For NLP, I am doing something separately.
+@DandradeJose There is a section mentioning both health and law. But I would recommend you to take a look at the Le… https://t.co/FLT05gmA1l
+@vignesh_satya Good suggestion, I will keep this in mind.
+I get a lot of questions about where to learn about practical NLP for building real-world applications. 
+
+This book… https://t.co/niSEhcsVlL
+If there is enough interest I will put together a list of good books I can recommend including a structure for studying them.
+Get a hold of a few books and start slowly building your knowledge both theoretically and practically. Ask question… https://t.co/YspU14TLC7
+The real AI breakthroughs are not the trending AI related articles we see on news outlets today.
+
+Those breakthroug… https://t.co/MZzESXNia2
+RT @dair_ai: Are you interested in applied machine learning research but don't know how to get started?
+
+@omarsar0 just published an articl…
+When working with ML in production, versioning code isn't enough. Excellent thread on the subject 👇 https://t.co/fx46T7mvaR
+In an increasingly dynamic world the future rarely looks like the past.
+
+As an ML practitioner, the challenge is ho… https://t.co/QpfqxSnNz2
+RT @omarsar0: The NLP Pandect is one of my favorite NLP-related repos. 
+
+@DemiourgosUA is doing a great job maintaining it. Lately, NLP fra…
+🙏 Very encouraging coming from a person I admire a lot in the ML community. https://t.co/65dIZvtqnj
+@rasbt Thanks so much for the kind words, Sebastian. It means a lot to me. :)
+@deepakkshu I agree that it's an important topic, something I should be covering in upcoming articles.
+@HakeemDemi 🙏😊
+RT @omarsar0: Applied ML research is just as important as theoretical work. Many young aspiring machine learning researchers jump into rese…
+Wow! This is exciting! The level of paper and code discoverability here is going to be insane! I am very excited ab… https://t.co/lCn9NeZ5cu
+Professors/Managers/PIs/Seniors researchers will all agree with this. 
+
+It's one of those skills that go unnoticed… https://t.co/3w0ti0ry8j
+I think writing sound proposals should be taught at school and I don't think there is enough emphasis on it early o… https://t.co/rSRJZBncek
+Looking back, any PI would have loved to have me as a student due to this ability to write proposals very quickly.… https://t.co/bBZ1TFGRFS
+I took it for granted how important a skill it became for me and the opportunities it granted me. 
+
+Writing proposa… https://t.co/JcDAeNXuRg
+A lot of my proposals remained on my computer for some strange reason. So many drafts. Crazy ideas that looking bac… https://t.co/Rpaw7qAobQ
+I received so many rejections I lost count. Some of these were approved and allowed me to conduct research, work on… https://t.co/oGvOo2HXVF
+A bit of a backstory to why I feel writing research proposals is important for any researcher.
+
+I wrote 1 or 2 prop… https://t.co/0m0ZxxqtWO
+The NLP Pandect is one of my favorite NLP-related repos. 
+
+@DemiourgosUA is doing a great job maintaining it. Latel… https://t.co/9arpMTVyZA
+@d1nall1 😊
+I am writing a special guide to provide some guidance on how to write a proper and strong machine learning research… https://t.co/7iEPCaGsW2
+Before getting started with machine learning research, it's important to write a proposal. 
+
+This proposal could be… https://t.co/3uzzsyBfwH
+Applied ML research is just as important as theoretical work. Many young aspiring machine learning researchers jump… https://t.co/EefzrByc9Y
+RT @omarsar0: When I got started with machine learning a couple of yrs back during my masters, most assignments were to implement ML algori…
+The dedication to build a tech stack that follows best practices (software standards, reproducibility, etc) and pri… https://t.co/T0AQr90KlP
+A great success story on the importance of iterating faster and scaling of your machine learning development. https://t.co/ZFtua9LPL7
+When I got started with machine learning a couple of yrs back during my masters, most assignments were to implement… https://t.co/LnUkm65Elb
+I understand people use memes to draw in the reader, I get all of that. However, do know that memes can be easily m… https://t.co/DPOqRkhL6U
+To be clear, I don't hate or like memes.
+
+There are more effective ways to make your writing approachable.
+
+Invest… https://t.co/1239Mmrv31
+I find it difficult to commit to a ML or data science article containing memes.
+
+Unless you are an expert at jokes,… https://t.co/AlMUt9x1BL
+While this was a big year for machine learning, aggregation-powered charts dominated 2020. It would be cool to have… https://t.co/54Kr7UIwhO
+This looks like a great tool for diagnosing issues related to tensor shapes and so forth. 
+
+Having a visual represe… https://t.co/beAHXUhW7x
+RT @omarsar0: Article summarizes cool new features in the recently released Python 3.9 🐍.
+
+- better time zone support
+- simpler updating of…
+@ykt_345 Please DM me this again. This way I can answer you there. As soon as I get a chance to check it, I will get in touch. Thanks.
+RT @omarsar0: I was already excited about the applications possible with GANs today. And now this!
+
+Video compression using GANs by @NVIDIA…
+Article summarizes cool new features in the recently released Python 3.9 🐍.
+
+- better time zone support
+- simpler u… https://t.co/ZBYZPavyCC
+I was already excited about the applications possible with GANs today. And now this!
+
+Video compression using GANs… https://t.co/PftUdXRrTF
+RT @omarsar0: Here is a neat repository that contains code for different data structures and algorithms implemented in various languages.…
+RT @omarsar0: A survey paper of explainable AI for NLP.
+
+"explanations can help users of NLP-based AI systems build trust in these systems’…
+RT @omarsar0: Just came across this "A Survey on Large-scale Machine Learning" survey paper by Wang et al.
+
+From ways to improve scalabilit…
+Just came across this "A Survey on Large-scale Machine Learning" survey paper by Wang et al.
+
+From ways to improve… https://t.co/gQ3X8DDZRB
+A survey paper of explainable AI for NLP.
+
+"explanations can help users of NLP-based AI systems build trust in thes… https://t.co/BW0DR1BOel
+Here is a neat repository that contains code for different data structures and algorithms implemented in various la… https://t.co/1q1ZDX21n9
+Lisa Barrett is one of my favorite scientists and researchers. Her work on affective science had so much influence… https://t.co/xKrHTIbUKR
+With most presentations and discussions happening online these days, what are your favorite most annoying phrases?
+RT @omarsar0: 🎓 A Machine Learning Primer 🎓
+
+A cool report by @mihail_eric sharing experience on the different machine learning concepts en…
+RT @omarsar0: If you are not comfortable being confused 95% of the time when you do something, ML is not for you. 😅
+🎓 A Machine Learning Primer 🎓
+
+A cool report by @mihail_eric sharing experience on the different machine learning c… https://t.co/jPkCDSrUXz
+RT @dair_ai: We are postponing the CNN session today. We will reschedule for next week. Thank you!
+
+Please make sure to follow the latest u…
+It's already hard to understand the concepts in machine learning from what's currently available to us, and with al… https://t.co/94kwfYX7yB
+@bens_hd 🤣
+If you are not comfortable being confused 95% of the time when you do something, ML is not for you. 😅
+One thing that helps me decide what projects to work on is by asking myself:
+
+"Will this project create the IMPACT,… https://t.co/dYfKDLvQXk
+RT @_rockt: Maybe this isn't said often enough, so here we go: I am very proud of my students and collaborators who decided to not submit t…
+@royinkol I will repost a thread of this in my blog soon. I will try to make recommendations there and give a little preview of each.
+Super cool art using neural nets. 
+
+"Artificial Natural History" https://t.co/gePvM7ldG4
+Great work! https://t.co/x2ljazwsDS
+Not sure how I missed it but @paperswithcode also provides Colab notebooks for papers where available in the GitHub… https://t.co/T8fjFLBjy6
+@rbstojnic @ak92501 @paperswithcode Very cool! That's an awesome addition.
+ML discoverability 💯 https://t.co/bLTOW7VYdj
+@ak92501 could be something interesting to consider @paperswithcode?
+RT @omarsar0: For the last couple of months, I have been doing some research on ML in production. 
+
+I have shared a few resources here, fro…
+RT @_rockt: Finally got a hardcopy of the outstanding book on "Mathematics for Machine Learning" by Marc Deisenroth (@mpd37), Aldo Faisal a…
+Happy reading!
+
+Feel free to add any books you found useful on the topic of machine learning in production.
+Agile Machine Learning
+
+by Eric Carter and Matthew Hurst https://t.co/1v8XIHGd94
+Kubeflow Operations Guide: Managing On-Premises, Cloud, and Hybrid Deployment
+
+by Josh Patterson, Michael Katzenell… https://t.co/aus3Su2vZi
+Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD
+
+by Jeremy Howard and Sylvain Gugger https://t.co/1UZMFMh5b3
+Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps
+
+by… https://t.co/RDd0j1CGw0
+Data Management at Scale
+
+by Piethein Strengholt https://t.co/zDZaPvGoba
+Building Machine Learning and Deep Learning Models on Google Cloud Platform
+
+by Ekaba Bisong https://t.co/RJV7F1Ki2C
+Python for DevOps
+
+by Noah Gift, Kennedy Behrman, Alfredo Deza, and Grig Gheorghiu https://t.co/UtWI4dV3NZ
+Machine Learning Systems: Designs that scale
+
+by Jeff Smith https://t.co/ig0zQsKsba
+High Performance Python
+
+by Micha Gorelick and Ian Ozsvald https://t.co/EXHOaUTP9z
+Introducing MLOps: How to Scale Machine Learning
+in the Enterprise
+
+by Clément Stenac, Léo Dreyfus-Schmidt, Kenji L… https://t.co/Zcwx2q0bKK
+Building Machine Learning Powered Applications
+
+by Emmanuel Ameisen https://t.co/v2HOhVBbdl
+Building Machine Learning Pipelines
+
+By Hannes Hapke and Catherine Nelson https://t.co/o7WH9NsoBI
+Designing Data-Intensive Applications
+
+by Martin Kleppmann https://t.co/p1gLraZOot
+For the last couple of months, I have been doing some research on ML in production. 
+
+I have shared a few resources… https://t.co/fyUEsYbjQK
+@NathanBenaich Thanks for this work, @NathanBenaich. 💯
+RT @omarsar0: The State of AI report for 2020 is out today! 🔥
+
+Lots of cool charts, trends, and resources. 
+
+This is a great way to stay up…
+RT @omarsar0: Yesterday, I attended the "GANs for Good" panel discussion hosted by @DeepLearningAI_. It was a great session!
+
+It hosted the…
+The State of AI report for 2020 is out today! 🔥
+
+Lots of cool charts, trends, and resources. 
+
+This is a great way… https://t.co/iOBD4ENgk1
+Yesterday, I attended the "GANs for Good" panel discussion hosted by @DeepLearningAI_. It was a great session!
+
+It… https://t.co/IuMR7pedCO
+RT @omarsar0: This coming weekend we will have a session on modern CNN architectures and their applications. 
+
+Feel free to join us:
+
+Hoste…
+RT @omarsar0: Timely opinion paper on improving leaderboards in NLP research to better serve the community.
+
+We need to rethink how we repo…
+@paulapivat I read a few Python-related books, particularly those containing data science topics to keep engaged.… https://t.co/5COEllF9U3
+Be specific about what you want help on (e.g., not sure how to tune hyperparameters) rather than the generic questi… https://t.co/8a01WPpiYq
+It is possible that someone has already tried what you are asking. All it takes is to do some research.
+
+So the bet… https://t.co/Ie0X4VE2wl
+People ask me this question a lot: "What ML model should I use to solve problem X?"
+
+I will be very honest here. I… https://t.co/3GCj56kfqk
+🔥 Torch for R 🔥
+
+Very happy to see this happening as R is a widely used language for data science.
+
+I actually star… https://t.co/Lx27cavMkl
+Timely opinion paper on improving leaderboards in NLP research to better serve the community.
+
+We need to rethink h… https://t.co/f3YYgZtA9Y
+🔥⚡️ https://t.co/cwQT6Aae4G
+Everyone agrees that the 3 main ingredients that have driven the success of deep learning are: data + compute + alg… https://t.co/KRuPInEUgP
+RT @omarsar0: Not sure how I missed recommending this visual introduction to probability and statistics to our deep learning study group.…
+science inspires art which in turn unleashes creativity... creativity reinvents art which in turn refuels science
+@BabeHarsh @dair_ai @SalimChemlal Yes, you can find the link to the live stream on the meetup page. :)
+This coming weekend we will have a session on modern CNN architectures and their applications. 
+
+Feel free to join… https://t.co/JxaLURBXY9
+If you are interested in the deep learning study and other NLP and data science discussions please use the link bel… https://t.co/GuxwQEp5ew
+The link to the slack group above doesn't work anymore. Try reaching out to me via DMs and I will send a valid one to you. Thanks.
+🚀 Data Engineer Roadmap 🚀
+
+A beautiful chart showing a potential roadmap for a modern data engineer. 
+
+Even if you… https://t.co/29wjusgFoD
+Not sure how I missed recommending this visual introduction to probability and statistics to our deep learning stud… https://t.co/1WwNLUovmU
+On understanding the role of optic flow in the control of natural locomotion. Very cool stuff! 🤯
+
+Apparently, no de… https://t.co/fgRIVOMI0O
+Great thread about misconceptions of deploying ML models in production 👇 https://t.co/I1VxNC5ykb
+🔥 https://t.co/pXxv7B11vh
+RT @omarsar0: [UPDATE]: I am moving the NLP Newsletter to a Substack publication.
+
+I tried Substack and it provides the necessary features…
+This well-written article by Benedikt Koller summarizes factors of success when building machine learning systems i… https://t.co/EswVfW7RLS
+Other ideas include repurposing some of my tweets into threads involving NLP &amp; ML papers and educational resources.… https://t.co/vimr1NpmML
+I am starting a new blog to share my findings, insights, and experiences in greater detail.
+
+Having a blog will als… https://t.co/slN63Uhi17
+Hi everyone. I have enjoyed sharing resources, projects, and experiences as a researcher. I will continue to do tha… https://t.co/vv9Up2Z5zq
+[UPDATE]: I am moving the NLP Newsletter to a Substack publication.
+
+I tried Substack and it provides the necessary… https://t.co/F47PyXfD80
+Very cool initiative if you are looking for an AI-related job and need to make a more informed decision when negoti… https://t.co/djbJbofdiq
+[]
