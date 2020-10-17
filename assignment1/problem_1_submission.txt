@@ -1,3 +1,8 @@
+RT @omarsar0: If you had the chance to ask any company (perhaps one you are interested in) a question about their work related to machine l…
+A week back I posted a thread on resources to learn mathematics for machine learning.
+
+I have published it as a blo… https://t.co/dcKaoRDnIF
+@nettwerkerin Wasn't aware of this! Thanks for sharing!
 I went through some of the exam questions and coding problems on this website and I like what I see.
 
 It's a nice r… https://t.co/mJpvPyyuCJ
@@ -13,8 +18,3 @@ In my head, it's a few lin… https://t.co/4TxQAS77vz
 RT @omarsar0: Cool paper from the TensorFlow team on ML Engineering:
 
 📌 Lots of insights on building tools for production ML and applied ma…
-Cool paper from the TensorFlow team on ML Engineering:
-
-📌 Lots of insights on building tools for production ML and… https://t.co/B50SfuZC08
-🔥🚀 https://t.co/XmxgzdKCuF
-RT @omarsar0: A great introduction to reinforcement learning by the amazing @pcastr.
