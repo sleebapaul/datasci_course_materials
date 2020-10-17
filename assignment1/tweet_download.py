@@ -1,11 +1,16 @@
 import tweepy 
+import os
+from dotenv import load_dotenv
+
 
 # Fill the X's with the credentials obtained by 
 # following the above mentioned procedure. 
-consumer_key = "sI4ViVkZ8Ocu8c91Wip9MvIrd"
-consumer_secret = "HR1KsfYApPk9f9wcCud0FN7y3iYQqxpEhke8eOXUZrVXFBinkU"
-access_key = "300140254-azF1tGgrrZJoGIAPsIez1f48IWgDAoQrFkY3KnlM"
-access_secret = "qxhDBx5pyWw13UfyrVJfIKLiBprEJvuv7CMraL30IHxh4"
+project_folder = os.path.expanduser('~/workspace/datasci_course_materials')  # adjust as appropriate
+load_dotenv(os.path.join(project_folder, '.env'))
+consumer_key = os.getenv("CONSUMER_KEY")
+consumer_secret = os.getenv("CONSUMER_SECRET")
+access_key = os.getenv("ACCESS_KEY")
+access_secret = os.getenv("ACCESS_SECRET")
 
 # Function to extract tweets 
 def get_tweets(username): 
@@ -26,7 +31,7 @@ def get_tweets(username):
     tmp=[] 
 
     # create array of tweet information: username, 
-python tweet_sentiment.py AFINN-111.txt output.txt    # tweet id, date/time, text 
+    # tweet id, date/time, text 
     for tweet in tweets: 
         # Appending tweets to the empty array tmp 
         print(tweet.text.strip()) 
