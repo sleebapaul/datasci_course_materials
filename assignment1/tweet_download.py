@@ -26,18 +26,19 @@ def get_tweets(username):
     # 200 tweets to be extracted 
     number_of_tweets=200
     tweets = api.user_timeline(screen_name=username, count=number_of_tweets) 
+    print(tweets)
 
-    # Empty Array 
-    tmp=[] 
+    # # Empty Array 
+    # tmp=[] 
 
-    # create array of tweet information: username, 
-    # tweet id, date/time, text 
-    for tweet in tweets: 
-        # Appending tweets to the empty array tmp 
-        print(tweet.text.strip()) 
+    # # create array of tweet information: username, 
+    # # tweet id, date/time, text 
+    # for tweet in tweets: 
+    #     # Appending tweets to the empty array tmp 
+    #     print(tweet.text.strip()) 
 
-    # Printing the tweets 
-    print(tmp) 
+    # # Printing the tweets 
+    # print(tmp) 
 
 
 # Driver code 

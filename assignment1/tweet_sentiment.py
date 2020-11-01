@@ -1,10 +1,11 @@
 import sys
+import json
 
 
-def hw():
+def hw(sent_file, tweet_file):
     afinnfile = None
     outputfile = None
-    with open("AFINN-111.txt") as f:
+    with open(sent_file) as f:
         afinnfile = f.readlines()
 
     scores = {}  # initialize an empty dictionary
@@ -13,12 +14,13 @@ def hw():
         term, score = line.split("\t")
         scores[term] = int(score)  # Convert the score to an integer.
 
-    with open("output.txt") as f:
+    with open(tweet_file) as f:
         outputfile = f.readlines()
 
     for line in outputfile:
         if line.strip():
-            words = line.strip().split()
+            tweet_dict = json.loads(line.strip())
+            words = tweet_dict['text'].strip().split()
             sentiment = 0
             for word in words:
                 if word.lower() in scores.keys():
@@ -29,11 +31,9 @@ def lines(fp):
     print(str(len(fp.readlines())))
 
 def main():
-    sent_file = open(sys.argv[1])
-    tweet_file = open(sys.argv[2])
-    hw()
-    lines(sent_file)
-    lines(tweet_file)
+    hw(sys.argv[1], sys.argv[2])
+    # lines(sent_file)
+    # lines(tweet_file)
 
 
 if __name__ == '__main__':
