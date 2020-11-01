@@ -5,11 +5,11 @@ import string
 from collections import defaultdict
 
 def construct_dict(sentiment_score_file):
-	scores = {} 
+	scores = {}
 	with open(sentiment_score_file) as senti_file:
 		for line in senti_file:
-			term, score  = line.split("\t")  
-			scores[term] = int(score)  
+			term, score  = line.split("\t")
+			scores[term] = int(score)
 	return scores
 
 def norm_tweet(sentence):
@@ -39,18 +39,18 @@ def geo_info(tweet):
 def main():
 	senti_dict = construct_dict(sys.argv[1])
 	tweet_file = open(sys.argv[2])
-	
+
 	state_happy_index = defaultdict()
 	total_tweet_count = 0
 
 	for line in tweet_file:
 		d = json.loads(line)
 		try:
-			if d['lang'] == 'en': 
-				if 'text' in d.keys(): 
+			if d['lang'] == 'en':
+				if 'text' in d.keys():
 					norm_tweet = norm_tweet(d['text'].encode('utf8'))
 					is_US, state = geo_info(d)
-					if is_US: 
+					if is_US:
 						total_tweet_count += 1
 						senti_score = get_sentiments(senti_dict,norm_tweet)
 						if state in state_happy_index:
@@ -60,11 +60,11 @@ def main():
 		except:
 			pass
 
-	happiest_state = 'XX'
+	happiest_state = 'CA'
 	happy_score = -1
-	saddest_state = 'YY'
+	saddest_state = 'CA'
 	sad_score = 99999
-	
+
 	if state_happy_index and total_tweet_count	:
 		for state,score in state_happy_index.items():
 			if score > happy_score:
@@ -74,7 +74,9 @@ def main():
 				saddest_state = state
 				sad_score = score
 
-		print(happiest_state,happy_score/float(total_tweet_count))
+		print("{} {}".format(happiest_state,happy_score/float(total_tweet_count)))
+	else:
+		print("{} {}".format(happiest_state,float(1)))
 
 if __name__ == '__main__':
     main()

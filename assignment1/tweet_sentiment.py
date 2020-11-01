@@ -32,8 +32,7 @@ def lines(fp):
 
 def main():
     hw(sys.argv[1], sys.argv[2])
-    # lines(sent_file)
-    # lines(tweet_file)
+
 
 
 if __name__ == '__main__':
